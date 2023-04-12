@@ -1,16 +1,3 @@
-# Rime dictionary
-# encoding: utf-8
-#
-# jyut6ping3 - 粵拼詞庫
-#
-# Source: https://github.com/CanCLID/rime-cantonese-upstream
-
----
-name: jyut6ping3.words
-version: "2023.04.06"
-sort: by_weight
-...
-
 吖笨	aa1 ban6
 丫叉	aa1 caa1
 丫杈	aa1 caa1
